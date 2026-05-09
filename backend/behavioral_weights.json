@@ -1,0 +1,9 @@
+{
+  "layer_deletion_score": 0.021295374259352684,
+  "temp_file_activity": 0.029506977647542953,
+  "process_injection_risk": 0.06871902197599411,
+  "privilege_escalation_risk": 0.6749536395072937,
+  "anti_analysis_score": 0.04093769192695618,
+  "crypto_mining_behavior": 0.16458727419376373,
+  "external_calls": 0.0
+}
